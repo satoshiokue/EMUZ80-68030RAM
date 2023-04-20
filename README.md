@@ -23,3 +23,17 @@ RAM   0x00000 - 0x1FFFF 128Kbytes
 UART  0x40000000   Data REGISTER
       0x40000001   Control REGISTER
 ```
+
+## ROMデータ
+main.cにrom[]イメージを３つ格納しています。  
+
+EhBASIC  
+RAMサイズ、ACIAアドレスを調整しています。  
+https://github.com/satoshiokue/EhBASIC68k-EMU  
+
+Universal Monitor  
+https://github.com/satoshiokue/unimon_EMUZ80-68008  
+
+fig-FORTH  
+https://github.com/jefftranter/68000/tree/master/figforth  
+
