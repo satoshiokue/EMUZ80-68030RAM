@@ -14,7 +14,10 @@ MC68EC030RP40Bで動作確認しています。
 https://drive.google.com/drive/folders/1NaIIpzsUY3lptekcrJjwyvWTBNHIjUf1
 
 ## メザニンボード
-https://github.com/satoshiokue/MEZ68030RAM
+https://github.com/satoshiokue/MEZ68030RAM  
+
+MEZ68030RAM専用プリント基板  
+https://store.shopping.yahoo.co.jp/orangepicoshop/pico-a-070.html  
 
 ## アドレスマップ
 ```
